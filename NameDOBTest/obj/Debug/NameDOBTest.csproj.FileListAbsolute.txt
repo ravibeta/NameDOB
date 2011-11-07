@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\NameDOBTest.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\NameDOBTest.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.GallioAdapter.3.1.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.Reporting.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.TDNetRunner.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\NameDOB.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Spark.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\TestDriven.Framework.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\NameDOB.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.GallioAdapter.3.1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.Reporting.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\bin\Debug\Machine.Specifications.TDNetRunner.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\obj\Debug\NameDOBTest.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\NameDOBVersions\3\NameDOB\NameDOBTest\obj\Debug\NameDOBTest.pdb

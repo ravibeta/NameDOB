@@ -1,0 +1,49 @@
+﻿@model NameDOB.Models.Individual
+
+@{
+    ViewBag.Title = "Add";
+}
+<script src="@Url.Content("~/Scripts/jquery.data.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.watermark.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.watermark.min.js")" type="text/javascript"></script>
+
+    <h2>Add</h2>
+@using (Html.BeginForm())
+{
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <legend>Fields</legend>
+                        
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Name)
+            </div>
+            <div class="editor-field">
+                
+                @Html.TextBoxFor(model => model.Name, new { id = "TextBoxName", name = "TextBoxName", placeholder = "John Smith", maxlength = 100 })
+                @Html.ValidationMessageFor(model => model.Name)
+                <script language="javascript" type="text/javascript">
+                    $('#TextBoxName').watermark('John Smith');
+                    </script>
+            </div>
+            
+            <div class="editor-label">
+                @Html.LabelFor(model => model.DateOfBirth)
+            </div>
+            <div class="editor-field">
+                @Html.TextBoxFor(model => model.DateOfBirth, new { id = "TextBoxDOB", name = "TextBoxDOB", placeholder = "5?/?/1853", maxlength = 50 })
+                @Html.ValidationMessageFor(model => model.DateOfBirth)
+                <script language="javascript" type="text/javascript">
+                    $('#TextBoxDOB').watermark('5?/?/1853');
+                </script>
+            </div>
+            
+        </fieldset>
+<div>
+            <p>
+                <input type="submit" value="Add"  />
+            </p>
+</div>
+}
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
